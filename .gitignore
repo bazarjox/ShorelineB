@@ -3,3 +3,6 @@
 *.db
 __init__.py
 venv/
+__pycache__/
+userdata/*
+dump.json
